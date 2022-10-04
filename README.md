@@ -107,12 +107,15 @@ Moreover, I'm an experienced programmer. I try to solve difficult problems every
 <br/>  
 
 
+## Github Stats  
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=MDAshrafulIslam215&show_icons=true&theme=solarized-light" align="center" /></div>
+
+
 ## Most Used Languages  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MDAshrafulIslam215)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDAshrafulIslam215&layout=compact" /></div>
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=MDAshrafulIslam215&show_icons=true&count_private=true&hide_border=true" align="center" /></div>    
 
 <br/>  
 
