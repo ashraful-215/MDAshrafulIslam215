@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8011DA&background=F7F7F700&width=610&height=70&lines=Hello!++I+am+MD.+Ashraful+Islam;A+Creative+Designer+with+4%2B+Years+of+Experience;User+Interface+Designer+at+UIHUT" alt="Typing SVG" /></a>
 
-# **User Interface Designer  ||  Web Developer**  
+# **User Interface Designer  ||  Web & App Developer**  
   
 
 #### User Interface Designer at UIHUT  
